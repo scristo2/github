@@ -1,0 +1,2 @@
+pones en el buscador gist github,y creas un archivo qu euqieras . txt, .json etc y puedes acceder a el,
+example https://gist.github.com/scristo2/1df2d11fc629509adbe5592e85bef24d/raw/tested.txt << siempre con el /raw/$(namefile)
